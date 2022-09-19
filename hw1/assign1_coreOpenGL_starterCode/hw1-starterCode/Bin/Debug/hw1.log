@@ -1,0 +1,81 @@
+﻿  imageIO.cpp
+  basicPipelineProgram.cpp
+  openGLMatrix.cpp
+  pipelineProgram.cpp
+  hw1.cpp
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(530,18): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(531,17): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(539,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(540,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(541,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(541,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(557,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(557,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(574,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(574,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(590,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(590,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(600,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(600,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(615,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(615,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(639,18): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(640,17): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(642,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(648,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(649,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(660,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(660,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(664,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(664,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(672,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(672,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(680,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(680,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(684,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(684,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(691,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(691,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(699,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(699,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(707,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(707,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(711,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(711,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(720,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(720,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(724,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(724,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(731,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(731,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(741,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(741,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(745,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(745,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(752,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(752,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(758,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(758,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(766,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(766,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(770,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(770,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(779,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(779,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(787,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(787,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(791,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(791,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(798,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(798,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(806,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(806,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(810,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(810,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  hw1.vcxproj -> C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw1\assign1_coreOpenGL_starterCode\hw1-starterCode\Bin\Debug\hw1.exe

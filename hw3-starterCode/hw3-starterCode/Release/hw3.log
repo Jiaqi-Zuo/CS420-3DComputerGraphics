@@ -1,0 +1,14 @@
+﻿  imageIO.cpp
+  hw3.cpp
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw3-starterCode\hw3-starterCode\hw3.cpp(402,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw3-starterCode\hw3-starterCode\hw3.cpp(457,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw3-starterCode\hw3-starterCode\hw3.cpp(599,59): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw3-starterCode\hw3-starterCode\hw3.cpp(599,44): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw3-starterCode\hw3-starterCode\hw3.cpp(599,29): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 373 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  hw3.vcxproj -> C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw3-starterCode\hw3-starterCode\Bin\Release\hw3.exe

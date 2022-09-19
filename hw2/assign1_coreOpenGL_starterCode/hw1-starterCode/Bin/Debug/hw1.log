@@ -1,0 +1,41 @@
+﻿  imageIO.cpp
+  basicPipelineProgram.cpp
+  openGLMatrix.cpp
+  pipelineProgram.cpp
+  hw1.cpp
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(287,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(858,31): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(858,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(858,37): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(858,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(858,43): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(858,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(859,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(859,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(859,18): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(859,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(859,24): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(859,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(860,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(860,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(860,18): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(860,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(860,24): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(860,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(861,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(861,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(861,18): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(861,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(861,24): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(861,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(849,14): warning C4101: 'add2': unreferenced local variable
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(849,20): warning C4101: 'add3': unreferenced local variable
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(849,8): warning C4101: 'add1': unreferenced local variable
+C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(904,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  hw1.vcxproj -> C:\Users\Jiaqi\Desktop\Study\SS22\CS 420\hw2\assign1_coreOpenGL_starterCode\hw1-starterCode\Bin\Debug\hw1.exe
