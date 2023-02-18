@@ -2,6 +2,7 @@
 
 ## Overview
 Used Catmull-Rom splines along with OpenGL core profile shader-based texture mapping and Phong shading to create a roller coaster simulation.
+
 ![](https://github.com/Jiaqi-Zuo/CS420-3DComputerGraphics/blob/09f886b785d98c5a9364436817bbe2aba9d6df98/hw2/assign1_coreOpenGL_starterCode/rollarcoaster.gif)
 
 ## Core Credit Features
